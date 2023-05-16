@@ -1,0 +1,6 @@
+*.DotSettings
+*.DotSettings.user
+*.dll
+.idea
+TODO
+obj
