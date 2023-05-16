@@ -1,6 +1,12 @@
 # VNPE Fridge Fix
 
-[Vanilla Nutrient Paste Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2920385763)
+![](About/Preview.png)
+
+If you want to use fridges as hoppers with [Vanilla Nutrient Paste Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2920385763), then, at some moment, you may find that grinders do not pick ingredients from fridges despite that there's more than enough stuff.
+
+This is because VNPE internally does not expect more than one stack in the hopper, and skips next stacks if it encounters an insufficeint one.
+
+This mod fixes that. And, as a bonus, all cells of adjacent fridges are processed now, so you can put 2x2 fridge next to a grinder, and all items from the fridge will be processed.
 
 ## Verified compatible/supported mods
 
@@ -14,5 +20,4 @@
 
 ## Support me
 
-[![ko-fi](https://i.imgur.com/Utx6OIH.png)](https://ko-fi.com/K3K81Z3W5)
-[Patreon](https://www.patreon.com/zed_0xff)
+[![ko-fi](https://i.imgur.com/Utx6OIH.png)](https://ko-fi.com/K3K81Z3W5) or [Patreon](https://www.patreon.com/zed_0xff)
