@@ -41,6 +41,15 @@ namespace :readme do
         end
       end
 
+      # add link to steam only on github
+      def link(link, title, content)
+        if content == ""
+          ""
+        else
+          "[url=#{link}]#{content}[/url]"
+        end
+      end
+
       def paragraph(text)
         text + "\n\n"
       end
