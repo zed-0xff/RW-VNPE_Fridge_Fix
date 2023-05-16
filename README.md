@@ -1,5 +1,4 @@
 # VNPE Fridge Fix
-
 ![](About/Preview.png)
 
 If you want to use fridges as hoppers with [Vanilla Nutrient Paste Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2920385763), then, at some moment, you may find that grinders do not pick ingredients from fridges despite that there's more than enough stuff.
