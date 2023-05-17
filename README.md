@@ -15,7 +15,9 @@ This mod fixes that. And, as a bonus, all cells of adjacent fridges are processe
 
 ## You may also like...
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/2031730758739600069/9E719DE99C619EA2C369BD9C8CCF76A0D159889B/?imw=268&imh=151&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2957616010)
+[![CPS: Compact Pawn Storage](https://steamuserimages-a.akamaihd.net/ugc/2031730758744755960/6EBD5542F16F51143F66B0123588C3CD002945A4/?imw=268&imh=151&ima=fit&impolicy=Letterbox)](https://steamcommunity.com/sharedfiles/filedetails/?id=2974541112)
+[![Vanilla Nutrient Paste Expanded: MiniGrinder](https://steamuserimages-a.akamaihd.net/ugc/2031730758739600069/9E719DE99C619EA2C369BD9C8CCF76A0D159889B/?imw=268&imh=151&ima=fit&impolicy=Letterbox)](https://steamcommunity.com/sharedfiles/filedetails/?id=2957616010)
+[![Connected Bed](https://steamuserimages-a.akamaihd.net/ugc/2031728856453754835/D013215D765753603B6F287EABA65E4987943552/?imw=268&imh=151&ima=fit&impolicy=Letterbox)](https://steamcommunity.com/sharedfiles/filedetails/?id=2957904090)
 
 ## Support me
 
